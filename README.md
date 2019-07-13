@@ -1,1 +1,1 @@
-# HTB_writeup
+# HTB writeups
